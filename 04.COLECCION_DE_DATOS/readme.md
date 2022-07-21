@@ -1,29 +1,3 @@
-En Python encontraremos dos tipos de datos
-
-## Tipos de datos básicos
-Los tipos de datos básicos en Python son los siguientes:
-
-* Número Entero (int)
-
-Este tipo de dato se corresponde con números enteros, es decir, sin parte decimal.
-
-* Número Decimal (float)
-
-Este tipo de dato se corresponde con números reales con parte decimal. Cabe destacar que el separador decimal en Python es el punto (.) y no la coma (,).
-
-* Caracter (chr)
-
-Este tipo de dato se corresponde con un símbolo tipográfico, es decir, una letra, número, coma, espacio, signo de punutación, etc.
-
-* Cadena de Texto (str)
-
-Este tipo de datos se corresponde con una cadena de caracteres.
-
-* Booleano (bool)
-
-Este tipo de dato reconoce solamente dos valores: Verdadero (True) y Falso (False)
-
-
 ## Tipos de datos complejos (Colecciones)
 
 Existen ciertos tipos de datos más complejos que los que acabamos de enumerar, destinados a agrupar elementos:
