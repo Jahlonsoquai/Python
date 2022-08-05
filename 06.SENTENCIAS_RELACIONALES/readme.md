@@ -11,8 +11,8 @@ cumpla una condición.
 
     edad = 0
     while edad < 18:
-    edad = edad + 1
-    print “Felicidades, tienes “ + str(edad)
+        edad = edad + 1
+        print “Felicidades, tienes “ + str(edad)
 
 La variable edad comienza valiendo 0. Como la condición de que edad es menor
 que 18 es cierta (0 es menor que 18), se entra en el bucle.
@@ -39,7 +39,7 @@ for en Python:
 
     secuencia = [“uno”, “dos”, “tres”]
     for elemento in secuencia:
-    print elemento
+        print elemento
 
 Como hemos dicho los for se utilizan en Python para recorrer secuencias, por lo
 que vamos a utilizar un tipo secuencia, como es la lista, para nuestro ejemplo.
